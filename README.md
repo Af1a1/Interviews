@@ -1,4 +1,4 @@
-Omobio Trainee Fullstack Developer Practical Test
+Trainee Fullstack Developer Practical Test
 ============================
 ## ScreenShot 
 # Login 
